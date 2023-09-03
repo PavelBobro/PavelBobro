@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavelBobro
 - 👀 I’m interested in Golang
-- 🌱 I’m currently learning if Golang
+- 🌱 I’m currently learning  Golang
 - 💞️ I’m looking to collaborate on NO
 - 📫 How to reach me telegram @BobroPavel
 
