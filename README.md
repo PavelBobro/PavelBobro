@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PavelBobro
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning  Golang
-- 📫 How to reach me telegram @BobroPavel
+- 👀 Golang developer
+- 📫 Contact me on telegram @BobroPavel
 
 <!---
 PavelBobro/PavelBobro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
